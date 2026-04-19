@@ -1,2 +1,3 @@
 # BRIGHT-TV-ANALYSIS
-bright
+ Bright TV analysis is the process of examining user engagement, viewing behavior, and content performance to generate insights that improve customer experience, increase consumption, and drive subscription growth. The project focuses on leveraging data analytics to assess user engagement, content performance, and consumption patterns on the Bright TV platform. It aims to identify key drivers of user behavior, evaluate subscription trends, and uncover factors contributing to churn and retention. Through detailed analysis of viewing activity and user interaction, the project supports data-driven decision-making to optimize content strategy, improve customer experience, and drive sustainable growth in subscriptions and platform usage.
+
